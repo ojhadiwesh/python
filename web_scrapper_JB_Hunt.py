@@ -51,8 +51,8 @@ print(result)
 import sys, time, os
 from robobrowser import RoboBrowser 
 LOGIN_URL = 'https://ssoauth.jbhunt.com/cas-server/login?service=https%3A%2F%2Fportalredirect.jbhunt.com%2Fportalredirect%2F'
-USERNAME = 'JBHJ2020'
-PASSWORD = '@3200Its!'
+USERNAME = 'username'
+PASSWORD = 'password'
 SEARCH_URL = 'https://carriers360.jbhunt.com/360/#!loadboard/search?'
 FIXED_QUERY = """maxLoadWeight=100000&minDrivingMiles=0&maxDrivingMiles=10000&maxLoads=1&
                     maxStops=40&earliestStartDate=2018-12-05&minOffers=0&maxOffers=500&minBookNowPrice=0&
